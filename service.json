@@ -2,7 +2,7 @@
   "services": [
     {
       "service_name": "dk-central-report",
-      "git_repo_url": "https://github.com/your-org/dk-central-report.git",
+      "git_repo_url": "https://github.com/ojcloveu/dk-central-report.git",
       "php_version": "8.4"
     },
     {
