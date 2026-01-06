@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "service_name": "dk-central-report",
+      "git_repo_url": "https://github.com/your-org/dk-central-report.git",
+      "php_version": "8.4"
+    },
+    {
+      "service_name": "user-service",
+      "git_repo_url": "https://github.com/your-org/user-service.git",
+      "php_version": "8.3"
+    },
+    {
+      "service_name": "payment-service",
+      "git_repo_url": "https://github.com/your-org/payment-service.git",
+      "php_version": "8.2"
+    }
+  ]
+}
