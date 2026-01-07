@@ -1,13 +1,6 @@
 {
   "services": [
     {
-      "service_name": "dk-central-report",
-      "git_repo_url": "https://github.com/ojcloveu/dk-central-report.git",
-      "php_version": "8.4",
-      "app_url": "demo-01.mlm-app.online",
-      "app_port": "80" 
-    },
-    {
       "service_name": "user-service",
       "git_repo_url": "https://github.com/your-org/user-service.git",
       "php_version": "8.3",
