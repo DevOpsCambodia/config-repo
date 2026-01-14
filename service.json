@@ -18,7 +18,7 @@
       "service_name": "dk-central-report",
       "git_repo_url": "https://github.com/ojcloveu/dk-central-report.git",
       "php_version": "8.4",
-      "app_url": "demo-01.mlm-app.online",
+      "app_url": "dk-report.mlm-app.online",
       "app_port": "80"
     }
   ]
