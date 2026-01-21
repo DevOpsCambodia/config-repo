@@ -1,0 +1,8 @@
+{
+  "cluster": [
+    {
+      "cluster_name": "demo-cluster",
+      "cluster_config": "/var/lib/jenkins/.kube/demo-cluster"
+    }
+  ]
+}
